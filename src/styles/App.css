@@ -1,0 +1,10 @@
+.event-note {
+    float: left;
+    margin-right: 7px;
+    color: gray !important;
+}
+
+.leaflet-container {
+    height: 200px;
+    width: 100%;
+}

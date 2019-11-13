@@ -1,0 +1,63 @@
+{
+  "controller": {
+    "logo": "data:image/png;base64,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",
+    "name": "Technical University of Berlin",
+    "address": "Ernst-Reuter-Platz 7 10587 Berlin",
+    "email": "support@example.com",
+    "policy": "This privacy notice discloses the privacy practices for (website address). This privacy notice applies solely to information collected by this website. It will notify you of the following: What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared. What choices are available to you regarding the use of your data. The security procedures in place to protect the misuse of your information. How you can correct any inaccuracies in the information. Information Collection, Use, and Sharing We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. Your Access to and Control Over Information You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: See what data we have about you, if any. Change/correct any data we have about you. Have us delete any data we have about you. Express any concern you have about our use of your data. Security We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for \"https\" at the beginning of the address of the Web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at XXX YYY-ZZZZ or via email."
+  },
+  "consents": [{
+    "label": "Photo sharing",
+    "description": "In order to share photos with other users we forward your photos to your friends."
+  }, {
+    "label": "Video sharing",
+    "description": "In order to share video with other users we forward your videos to your friends."
+  }, {
+    "label": "Location sharing",
+    "description": "In order to share locations with other users we forward your location to your friends."
+  }, {
+    "label": "IP telephony",
+    "description": "In order to use the IP telephony feature we forward your audio files to other users."
+  }],
+  "messages": [{
+    "subject": "Withdrawal of consent",
+    "date": 1484580368000,
+    "text": "I hereby withdraw consent for sharing photos of me.",
+    "answers": [{
+      "subject": "Accepted",
+      "date": 1486944618000,
+      "text": "We accepted your request the affected data will no longer be processed for this purpose."
+    }]
+  }, {
+    "subject": "Request for erasure",
+    "date": 1507553227000,
+    "text": "I hereby want all my data to be erased.",
+    "answers": []
+  }, {
+    "subject": "Request for rectification",
+    "date": 1496635141000,
+    "text": "I hereby want this inaccurate data to be rectified. I'm not bankrupt.",
+    "answers": [{
+      "subject": "Accepted",
+      "date": 1498799203000,
+      "text": "We followed your request for rectification."
+    }]
+  }, {
+    "subject": "Request for rectification",
+    "date": 1507917663000,
+    "text": "I hereby want this other inaccurate data to be rectified. I'm not rich.",
+    "answers": []
+  }],
+  "palette": {
+    "primary1Color": "rgb(130, 69, 149)",
+    "primary2Color": "rgb(145, 94, 162)",
+    "primary3Color": "rgb(210, 195, 215)",
+    "accent1Color": "rgb(255, 170, 78)",
+    "accent2Color": "rgb(255, 205, 150)",
+    "accent3Color": "rgb(255, 227, 197)",
+    "cardHeader1Color": "rgb(0, 175, 223)",
+    "iconColor": "rgb(0, 168, 156)",
+    "avatarColor": "rgb(0, 168, 156)",
+    "specialPurple": "rgb(244, 2, 137)"
+  }
+}
